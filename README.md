@@ -66,6 +66,12 @@ Taipy is a Two-in-One Tool for UI Generation and Scenario/Data Management
 
 <img src="readme_img/taipy_github_scenario.png" alt="Scenario Banner"  width="49%" />  <img src="readme_img/taipy-github-optimized.png" alt="Back-End Animation"  width="49.7%"/>
 <img src="readme_img/taipy_github_data_support.png" alt="Back-End Animation"  width="49.7%" />
+- **User-Friendly Interface**: Easily create data applications with a straightforward UI.
+- **Scenario Management**: Define and manage complex scenarios for data processing.
+- **Python-Based**: No need to learn new languages; only Python is required.
+- **Scalability**: Handle larger datasets and more complex applications as needed.
+- **Documentation**: Comprehensive guides and examples to help you get started quickly.
+
 
 &nbsp;
 
@@ -85,9 +91,7 @@ step-by-step instructions.<br/>
 
 Excited to Dive In? 💡 <br>
 Start building with Taipy today! Our
-[Getting Started Guide]https://docs.taipy.io/en/develop/tutorials/getting_started/)
-is the perfect place to begin your journey and unlock the full potential of Taipy.
-
+[Getting Started Guide](https://docs.taipy.io/en/latest/tutorials/getting_started/) is the perfect place to begin your journey and unlock the full potential of Taipy.
 
 
 &nbsp;
